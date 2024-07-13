@@ -19,8 +19,9 @@ Para os alunos, o sistema simula provas baseadas nessas questões. Após o simul
 
 Os gráficos consolidam todas as matérias em uma visualização única, facilitando a identificação de áreas fortes e fracas. O sistema oferece feedback imediato e útil para alunos e professores, ajudando na preparação e no acompanhamento do desempenho.
 
-### [Primeiro CRUD com Django](https://github.com/filiperochatog/Crud-django)
-Este projeto é um estudo sobre como implementar as operações CRUD (Create, Read, Update, Delete) utilizando o framework Django.
+### [Sistema de Roteiro de Viagem](https://github.com/filiperochatog/nlw-journey-html-css-js)
+Este projeto consiste em uma versão simplificada de um sistema de roteiro de viagem. O objetivo é fornecer aos usuários uma ferramenta prática para planejar suas viagens de forma organizada e eficiente.
+Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 
 ---
 

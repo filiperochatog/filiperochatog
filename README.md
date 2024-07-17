@@ -33,7 +33,7 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
       <img src="https://github-readme-stats.vercel.app/api?username=filiperochatog&show_icons=true&theme=radical" alt="Minhas Estatísticas do GitHub">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperochatog&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperochatog&langs_count=8&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
     </td>
   </tr>
 </table>

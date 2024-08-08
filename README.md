@@ -12,7 +12,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se voc�
 
 ## Projetos em que estou trabalhando
 
-### [Eduinsights](https://github.com/filiperochatog/Eduinsightss)
+### [Eduinsights](https://github.com/filiperochatog/Eduinsights)
 Desenvolvi um sistema onde professores podem acessar questões do ENADE e seus requisitos. As questões são cadastradas e atualizadas automaticamente via API.
 
 Para os alunos, o sistema simula provas baseadas nessas questões. Após o simulado, um relatório é gerado, mostrando gráficos de desempenho em cada matéria. Por exemplo, se houver cinco questões de Estrutura de Dados e o aluno acertar três, isso será refletido no gráfico.

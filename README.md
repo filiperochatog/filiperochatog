@@ -1,8 +1,8 @@
-# Olá 👋 Eu sou Filipe Rocha, estudante de Análise e Desenvolvimento de Sistemas!
+# Olá 👋 Eu sou Filipe Rocha, formado em Análise e Desenvolvimento de Sistemas!
 
 Bem-vindo ao meu perfil do GitHub! Aqui está um pouco sobre mim:
 
-- 🌱 Estou começando na área de desenvolvimento e atualmente estou aprendendo Django.
+- 🌱 Estou iniciando minha carreira na área de desenvolvimento e atualmente estou aprendendo Django.
 - 💬 Gosto de explorar novas tecnologias e estou sempre disposto a aprender mais.
 - 📫 Como me encontrar: filiperochatog@gmail.com
 
@@ -42,10 +42,11 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
 
 ## Tecnologias e Ferramentas
 
-![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,bootstrap,git,github)
+![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,bootstrap,tailwind,git,github)
 
 ---
 
 ## Entre em Contato
 
 - 📧 Email: filiperochatog@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/filipe-rochaa/)

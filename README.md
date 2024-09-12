@@ -40,6 +40,14 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
 
 ---
 
+## GitHub Analytics
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=filiperochatog&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=filiperochatog&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## Tecnologias e Ferramentas
 
 ![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,bootstrap,tailwind,git,github)

@@ -10,7 +10,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se voc�
 
 ---
 
-## Projetos em que estou trabalhando
+## 🚀 Projetos em que estou trabalhando
 
 ### [Eduinsights](https://github.com/filiperochatog/Eduinsights)
 Desenvolvi um sistema onde professores podem acessar questões do ENADE e seus requisitos. As questões são cadastradas e atualizadas automaticamente via API.
@@ -25,7 +25,7 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
 
 ---
 
-## Minhas Estatísticas e Linguagens Mais Usadas
+## 📊 Minhas Estatísticas e Linguagens Mais Usadas
 
 <table>
   <tr>
@@ -40,19 +40,19 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
 
 ---
 
-## GitHub Analytics
+## 🔍 GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=filiperochatog&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=html,css,mysql,sqlite,python,php,django,js,bootstrap,tailwind,git,github)
 
 ---
 
-## Entre em Contato
+## 📬 Entre em Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filiperochatog@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-rochaa/)

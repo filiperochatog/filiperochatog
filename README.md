@@ -48,5 +48,6 @@ Este projeto foi desenvolvido durante o NLW Journey da Rocketseat na trilha HTML
 
 ## Entre em Contato
 
-- 📧 Email: filiperochatog@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/filipe-rochaa/)
+- 📧 Email: filiperochatog@gmail.com  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/filipe-rochaa/)
+
